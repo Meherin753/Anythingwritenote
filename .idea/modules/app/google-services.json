@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890324997057",
+    "firebase_url": "https://anythingwrite-7b191.firebaseio.com",
+    "project_id": "anythingwrite-7b191",
+    "storage_bucket": "anythingwrite-7b191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890324997057:android:1e3efec339c8ef96c61540",
+        "android_client_info": {
+          "package_name": "com.example.anythingwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890324997057-ucea56pd8rueqc6f9aite217h0g8m3am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anythingwrite",
+            "certificate_hash": "c412ea9eedcea99271f59f61d4818b330b0e48d5"
+          }
+        },
+        {
+          "client_id": "890324997057-uq2gmdopg00uqu79u6jeken804jq3ujr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7h6tmiG7FUMTO3jwkdZkDrG3Duk2iek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890324997057-uq2gmdopg00uqu79u6jeken804jq3ujr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

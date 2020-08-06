@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/yournote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Your Note"
+        android:background="#BF6E0C"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+
+        />
+
+    <TextView
+        android:id="@+id/title1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Title"
+        android:background="#BFA70C"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="10dp"
+        />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Text"
+        android:background="#BFB60C"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="10dp"
+        />
+
+
+
+
+    <TextView
+        android:id="@+id/note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter note"
+        android:background="#B7481C"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+
+       />
+    <EditText
+        android:id="@+id/title2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="Title"
+        android:background="#FFA200"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="10dp"
+
+
+
+        />
+
+    <EditText
+        android:id="@+id/entertext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Text"
+        android:background="#BBFF00"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="10dp"
+        />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingVertical="20dp"
+        android:paddingHorizontal="20dp"
+        android:background="#FFE600"
+
+
+        android:text="Add text" />
+
+
+</LinearLayout>
